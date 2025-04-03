@@ -1,0 +1,3 @@
+productnames,productid
+product1,1
+product2,2
